@@ -130,6 +130,7 @@
     border-radius: 0.5rem;
 }
 
+
 @media (max-width: 480px) {
     h2{
         font-size: 1em;

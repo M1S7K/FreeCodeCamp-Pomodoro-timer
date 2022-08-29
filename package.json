@@ -1,5 +1,5 @@
 {
-  "homepage": "https://M1S7K.github.io/FreeCodeCamp-Pomodoro-timer",
+  "homepage": "https://M1S7K.github.io/FreeCodeCamp-Pomodoro-timer/",
   "name": "pomodoro-timer",
   "version": "0.1.0",
   "private": true,
@@ -15,7 +15,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d build", 
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
