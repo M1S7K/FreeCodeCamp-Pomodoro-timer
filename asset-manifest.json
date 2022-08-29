@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/FreeCodeCamp-Pomodoro-timer/static/css/main.1d8d556b.css",
+    "main.css": "/FreeCodeCamp-Pomodoro-timer/static/css/main.70cf21af.css",
     "main.js": "/FreeCodeCamp-Pomodoro-timer/static/js/main.40a11c63.js",
     "index.html": "/FreeCodeCamp-Pomodoro-timer/index.html",
-    "main.1d8d556b.css.map": "/FreeCodeCamp-Pomodoro-timer/static/css/main.1d8d556b.css.map",
+    "main.70cf21af.css.map": "/FreeCodeCamp-Pomodoro-timer/static/css/main.70cf21af.css.map",
     "main.40a11c63.js.map": "/FreeCodeCamp-Pomodoro-timer/static/js/main.40a11c63.js.map"
   },
   "entrypoints": [
-    "static/css/main.1d8d556b.css",
+    "static/css/main.70cf21af.css",
     "static/js/main.40a11c63.js"
   ]
 }
